@@ -1,4 +1,4 @@
-# Kiran (KK)
+# Hi, I am Karun Reddy K (KK)
 
 Senior Front-End / Full-Stack Engineer with 14+ years of experience building
 scalable, high-performance web applications in fintech and healthcare.
