@@ -8,39 +8,67 @@ accessibility, and clean API integration. I enjoy turning complex business
 requirements into simple, reliable user experiences.
 
 ---
-
 ## 🧰 Tech Stack
 
 ### Frontend
-- React, Next.js
-- TypeScript, JavaScript (ES6+)
-- Tailwind CSS, CSS Modules, MUI
-- Accessibility (WCAG, ARIA)
-- Responsive & mobile-first design
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" />
+</p>
 
-### State & Data
-- Redux, Zustand
-- React Query / TanStack Query
-- REST APIs, GraphQL
-
-### Backend
-- Node.js, Express
-- API design, authentication, idempotency
-- Data transformation & validation
-
-### Cloud & Tooling
-- AWS
-- Firebase (Auth, Firestore, Functions)
-- Git, GitHub Actions
-- Docker (foundational)
-- Testing: Jest, React Testing Library
-
-### AI / Developer Productivity
-- ChatGPT, Cursor, GitHub Copilot
-- AI-assisted prototyping and debugging
-- Exploring LLM-powered UI workflows
+**React, Next.js, TypeScript, JavaScript, Tailwind CSS, CSS**  
+Accessibility-focused UI development (WCAG, ARIA), responsive & mobile-first design
 
 ---
+
+### State & Data
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" />
+</p>
+
+**Redux, Zustand, React Query, REST APIs, GraphQL**
+
+---
+
+### Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" />
+</p>
+
+**Node.js, Express**  
+API design, authentication, idempotency, data transformation
+
+---
+
+### Cloud & Tooling
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" />
+</p>
+
+**AWS, Firebase (Auth, Firestore, Functions), Docker, Git, GitHub Actions**  
+Testing: Jest, React Testing Library
+
+---
+
+### AI / Developer Productivity
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="36" />
+</p>
+
+**ChatGPT, Cursor, GitHub Copilot**  
+AI-assisted prototyping, debugging, and workflow optimization
+
 
 ## 🚀 Featured Projects
 
